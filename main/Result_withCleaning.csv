@@ -1,0 +1,2 @@
+cleaned,model,scaled,feature_selection_method,classification_method,accuracy_score,f1_score,precision_score,recall_score,time_used
+TRUE,3,TRUE,k_best,ada_boost,0.944,0.5,1,0.333,36.166

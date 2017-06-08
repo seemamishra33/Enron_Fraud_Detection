@@ -1,0 +1,14 @@
+cleaned,model,scaled,feature_selection_method,classification_method,accuracy_score,f1_score,precision_score,recall_score,time_used
+FALSE,10,TRUE,k_best_with_pca,linear_svc,0.917,0,0,0,6.248
+FALSE,2,TRUE,k_best,k_neighbors,0.917,0,0,0,8.673
+FALSE,16,TRUE,tree_with_pca,linear_svc,0.917,0.4,0.5,0.333,33.908
+FALSE,7,TRUE,tree,linear_svc,0.917,0,0,0,35.78
+FALSE,12,TRUE,k_best_with_pca,ada_boost,0.917,0,0,0,40.872
+FALSE,8,TRUE,tree,k_neighbors,0.917,0,0,0,78.671
+FALSE,18,TRUE,tree_with_pca,ada_boost,0.917,0,0,0,81.98
+FALSE,4,TRUE,randomized_logistic,linear_svc,0.917,0,0,0,99.39
+FALSE,15,TRUE,randomized_logistic_with_pca,ada_boost,0.917,0,0,0,177.124
+FALSE,17,TRUE,tree_with_pca,k_neighbors,0.917,0,0,0,198.908
+FALSE,6,TRUE,randomized_logistic,ada_boost,0.917,0,0,0,211.101
+FALSE,14,TRUE,randomized_logistic_with_pca,k_neighbors,0.917,0,0,0,220.802
+FALSE,5,TRUE,randomized_logistic,k_neighbors,0.917,0,0,0,226.294
